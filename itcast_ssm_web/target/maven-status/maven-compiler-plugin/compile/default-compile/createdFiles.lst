@@ -1,0 +1,5 @@
+com\itcast\ssm\controller\RoleController.class
+com\itcast\ssm\controller\OrdersController.class
+com\itcast\ssm\controller\Role.class
+com\itcast\ssm\controller\IProductController.class
+com\itcast\ssm\controller\UserController.class

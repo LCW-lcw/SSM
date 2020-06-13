@@ -1,0 +1,8 @@
+com\itcast\ssm\server\impl\OrdersServiceImpl.class
+com\itcast\ssm\server\impl\RoleServiceImpl.class
+com\itcast\ssm\server\impl\IProductServerImpl.class
+com\itcast\ssm\server\IRoleService.class
+com\itcast\ssm\server\IOrdersService.class
+com\itcast\ssm\server\IUserService.class
+com\itcast\ssm\server\impl\UserServiceImpl.class
+com\itcast\ssm\server\IProductServer.class
